@@ -43,7 +43,7 @@
 
 img {
   height: auto;
-  width: 250px;
+  width: 400px;
   float: right;
 }
 
@@ -56,5 +56,6 @@ body {
   font-size: 24px;
   font-weight: bold;
   color: #333;
-  margin-top: 20px;
+  margin-bottom: 43rem;
+  margin-left: 2rem;
 }
