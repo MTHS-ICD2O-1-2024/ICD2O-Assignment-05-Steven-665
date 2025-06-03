@@ -3,10 +3,9 @@
 // Created on: Mar 2025
 // This file contains the JS functions for index.html
 
-
 "use strict"
 
-
+// // Calculates and displays the LCM of two positive integers from user input.
 function calculateLCM() {
   const num1 = parseInt(document.getElementById('number1').value);
   const num2 = parseInt(document.getElementById('number2').value);
