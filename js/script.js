@@ -17,7 +17,7 @@ function calculateLCM() {
 
   let gcd = 1;
   let min = Math.min(num1, num2);
-  for (let i = 1; i <= min; i++) {
+  for (let i = 1; i <= min; i += 1) {
     if (num1 % i === 0 && num2 % i === 0) {
       gcd = i;
     }
